@@ -53,7 +53,7 @@ int main(void)
 		if (i != 98)
 			printf(", ");
 		else
-			printf(", ");
+			printf("\n");
 		i++;
 	}
 	return (0);
