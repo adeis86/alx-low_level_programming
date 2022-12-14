@@ -22,9 +22,11 @@ int main(void)
 		{
 			printf("%ld\n", j);
 		}
+
 		i = j + k;
 		j = k;
 		k = l;
 	}
+
 	return (0);
 }
